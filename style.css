@@ -1,0 +1,38 @@
+body {
+    margin: o;
+    background-image: url(./img/beach.webp);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.div1{
+    text-align: center;
+    margin: 250px 0 0 0;
+    color: white;
+}
+
+.div2{
+    font-size: 5em;
+    margin: 0 0 20px 0;
+}
+
+.div3 button{
+    margin: 5px;
+    padding: 5px 10px;
+    font-size: 1em;
+    cursor: pointer;
+    background-color: rgba(58, 116, 58, 0.616);
+    color: white;
+    border-radius: 10px;
+    border-style: none;
+    width: 100px;
+}
+
+.div3 button:hover{
+    background-color: rgba(31, 31, 130, 0.073);
+}
+
+.laps{
+    list-style-type: none;
+    padding: 0;
+}
